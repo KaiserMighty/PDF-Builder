@@ -1,0 +1,6 @@
+Title: Item Golf
+Link: https://golf.example.com
+Subheader: Golf Subheader
+Bullet1: Golf bullet 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget tortor libero.
+Bullet2: Golf bullet 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget tortor libero.
+Bullet3: Golf bullet 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget tortor libero.

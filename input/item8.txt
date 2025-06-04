@@ -1,0 +1,6 @@
+Title: Item Hotel
+Link: https://hotel.example.com
+Subheader: Hotel Subheader
+Bullet1: Hotel bullet 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget tortor libero.
+Bullet2: Hotel bullet 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget tortor libero.
+Bullet3: Hotel bullet 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget tortor libero.

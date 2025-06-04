@@ -1,0 +1,6 @@
+Title: Item Charlie
+Link: https://charlie.example.com
+Subheader: Charlie Subheader
+Bullet1: Charlie bullet 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget tortor libero.
+Bullet2: Charlie bullet 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget tortor libero.
+Bullet3: Charlie bullet 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget tortor libero.
